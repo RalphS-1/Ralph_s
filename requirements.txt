@@ -1,4 +1,3 @@
 pandas
 pip
 PyPDF2
-re
