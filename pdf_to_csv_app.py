@@ -8,7 +8,7 @@ from io import StringIO
 st.set_page_config(
     page_title="pdf to csv")
 
-st.title("Convert from PDF to CSV")
+st.title("EWL Fair Distribution Converter")
 uploaded_file = st.file_uploader("Choose file", type = ["pdf"])
 
 st.spinner("extracting")
